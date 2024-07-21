@@ -16,5 +16,5 @@ Se presenta la guía de instalación para ejecutar el proyecto de analizador sin
 1. Instalar Python 3.x
 2. Instalar Docker
 3. Abra una terminal y ejecute el comando `docker-compose -f docker-compose.yml -f docker-compose.prod.yml up`
-6. Abra una terminal, revise su dirección IP y copiela
-7. Abra un navegador e ingrese lo siguiente (reemplace `<IP>` por su IP) `<IP>:5000`
+4. Abra una terminal, revise su dirección IP y copiela
+5. Abra un navegador e ingrese lo siguiente (reemplace `<IP>` por su IP) `<IP>:5000`
