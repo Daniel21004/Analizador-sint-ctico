@@ -19,4 +19,5 @@ Se presenta la guía de instalación para ejecutar el proyecto de analizador sin
 4. Ejecutar el siguiente comando para instalar las dependencias `pip install -r requirements.txt`
 5. Ingresar el siguiente comando para levantar el servicio Flask
 `python app.py`
-6. Dirigirse a la URL que se indique
+6. Abra una terminal, revise su dirección IP y copiela
+7. Abra un navegador e ingrese lo siguiente (reemplace `<IP>` por su IP) `<IP>:5000`
